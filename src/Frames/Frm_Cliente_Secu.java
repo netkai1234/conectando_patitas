@@ -122,7 +122,7 @@ public class Frm_Cliente_Secu extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void cbx_sectorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cbx_sectorActionPerformed
-        // TODO add your handling code here:
+        System.out.println("no molestes");
     }//GEN-LAST:event_cbx_sectorActionPerformed
 
     /**
