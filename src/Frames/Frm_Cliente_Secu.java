@@ -123,7 +123,8 @@ public class Frm_Cliente_Secu extends javax.swing.JFrame {
 
     private void cbx_sectorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cbx_sectorActionPerformed
         System.out.println("no molestes");
-        System.out.println("TU MAS");
+        System.out.println("TU MAS HOLA");
+        
     }//GEN-LAST:event_cbx_sectorActionPerformed
 
     /**
